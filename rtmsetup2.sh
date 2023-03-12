@@ -12,7 +12,7 @@ cecho(){
 cecho GREEN "Updated, upgraded, and installed packages." | cowsay
 chmod +x rtmmine.sh
 cecho GREEN "Granted executable privilege to run file..." | cowsay
-git clone https://github.com/JayDDee/cpuminer-opt
+git clone https://github.com/michal-zurkowski/cpuminer-gr
 mv cpuminer-opt cpuminer-gr
 cecho GREEN "Cloned cpuminer-gr..." | cowsay
 cecho GREEN "List files" | cowsay
